@@ -1,0 +1,55 @@
+* {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  min-width: 450px;
+  min-height: 200px;
+}
+
+.card {
+  width: 450px;
+  height: 250px;
+  padding: 15px;
+  padding-right: 3rem;
+  padding-left: 3rem;
+  box-shadow: 8px 8px 10px rgba(192, 192, 192, 0.425);
+  border-radius: 8px;
+  background: white;
+  text-align: center;
+}
+
+.quoteAuthor {
+  font-weight: 900;
+  text-align: right;
+  margin-right: 20px;
+}
+
+.quoteIcon {
+  font-size: 50px;
+  text-align: left;
+  padding-right: 10px;
+}
+
+.buttonCircle {
+  padding: 2rem;
+  padding-top: 0;
+  text-align: right;
+  position: relative;
+  top: -65px;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  font-size: 30px;
+  border-radius: 50%;
+  box-shadow: 2px 2px 4px gray;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+}
