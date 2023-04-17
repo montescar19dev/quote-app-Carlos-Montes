@@ -18,7 +18,7 @@ function App() {
       setIndex(randomIndex)
   }
 
-  const colors = ['#845EC2', '#D65DB1', '#FF6F91', '#FF9671', '#FFC75F', '#F9F871'];
+  const colors = ['#593e85', '#D65DB1', '#b85a9b', '#c7603c', '#bd8317', '#99982c'];
   const randomColor = Math.floor(Math.random() * colors.length);
   document.body.style = `background: ${colors[randomColor]}`
 
