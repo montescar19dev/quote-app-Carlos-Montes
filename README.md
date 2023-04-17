@@ -1,8 +1,8 @@
-# Quote app by Carlos Montes
+# ###Quote app by Carlos Montes###
 
 # Random inspirational Quotes JSON generator.
 
-# Esta es una aplicación web que muestra frases aleatorias de personajes célebres. La aplicación está construida en React.js y utiliza una API pública para obtener las frases.
+Esta es una aplicación web que muestra frases aleatorias de personajes célebres. La aplicación está construida en React.js y utiliza una API pública para obtener las frases.
 
 Características
 Muestra frases aleatorias de personajes célebres.
