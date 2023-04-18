@@ -9,11 +9,11 @@ Muestra frases aleatorias de personajes célebres.
 Diseño responsivo y amigable para el usuario.
 
 ### Tecnologías utilizadas
-HTML
-CSS
-JS
-React.js
-Vite
+HTML, 
+CSS, 
+JS, 
+React.js, 
+Vite, 
 JSON para tomar las frases.
 
 ### Cómo probar la aplicación
