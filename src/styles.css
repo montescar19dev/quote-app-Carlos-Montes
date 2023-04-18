@@ -24,6 +24,13 @@ body{
   text-align: center;
 }
 
+.quoteContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .quoteAuthor {
   font-weight: 900;
   text-align: right;
