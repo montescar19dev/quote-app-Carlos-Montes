@@ -17,5 +17,6 @@ Vite
 JSON para tomar las frases.
 
 ### Cómo probar la aplicación
-Para probar la aplicación, simplemente accede al enlace https://quotes-app-carlos-montes.netlify.app/
+Para probar la aplicación, simplemente accede al enlace https://quotes-app-carlos-montes.netlify.app/ .
+
 También puedes clonar el repositorio y ejecutar la aplicación en tu propio entorno de desarrollo.
