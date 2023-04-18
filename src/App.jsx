@@ -26,10 +26,10 @@ function App() {
 
   return (
     <>
-      <div className='App' style={{ color: colors[randomColor] }}>
-          <QuoteBox  index={index}  />
-          <ButtonNext colors={colors} randomColor={randomColor} changeQuote={changeQuote} />
-      </div>
+<div className='quoteContainer'>
+    <QuoteBox index={index} />
+    <ButtonNext colors={colors} randomColor={randomColor} changeQuote={changeQuote} />
+</div>
     </>
   );
 };
