@@ -26,7 +26,7 @@ function App() {
 
   return (
     <>
-<div className='quoteContainer'>
+<div className='quoteContainer' style={{ color: colors[randomColor] }}>
     <QuoteBox index={index} />
     <ButtonNext colors={colors} randomColor={randomColor} changeQuote={changeQuote} />
 </div>
